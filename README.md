@@ -1,2 +1,3 @@
-# Mall-Customer-Analysis
-Mall customer analysis is the process of examining and interpreting customer data from a shopping mall or retail environment to understand patterns, preferences, and behaviors. This analysis helps businesses make informed decisions about marketing, product offerings, store layout, and customer experience improvements.
+Mall-Customer-Analysis
+This project focuses on analyzing customer data from a mall to uncover valuable insights into shopping behaviors and demographics. The dataset includes features like customer IDs, age, gender, annual income, and spending scores. By using data exploration, visualization, and clustering techniques, such as K-Means, this analysis aims to segment customers into meaningful groups and help businesses tailor their marketing strategies. Whether you're exploring customer patterns or practicing machine learning techniques, this project is a great introduction to practical data analysis and segmentation.
+
